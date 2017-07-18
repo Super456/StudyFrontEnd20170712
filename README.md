@@ -24,7 +24,7 @@
 ### 2017年7月13号：
 #### （一）、学习的内容有
 - 学习廖雪峰老师的git使用教程([廖雪峰的官方网站——git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000))
-- 学习是stromzhang的learn-git-from-zero电子书全部([learn-git-from-zero.pdf](learn-git-from-zero.pdf))
+- 学习是stromzhang的learn-git-from-zero电子书全部([learn-git-from-zero.pdf](这里应该放百度云盘下载链接))
 #### （二）、知识点整理及学习体会总结
 
 ### 2017年7月15号-17号：
@@ -36,3 +36,4 @@
 ### 2017年7月18号：
 #### （一）、学习的内容有
 #### （二）、知识点整理及学习体会总结
+这是一条狗的图片（测试添加图片）<img src="dog.jpg"/>
