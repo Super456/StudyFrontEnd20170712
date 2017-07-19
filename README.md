@@ -16,10 +16,10 @@
 - 学习版本控制入门——搬进Github（[慕课网视频教程](http://www.imooc.com/learn/390)）
 - 学习版本管理工具介绍——Git篇（[慕课网视频教程](http://www.imooc.com/learn/208)）
 - 学习了youngxhui@杨晓辉博客的四篇关于github for window图文教程（感谢原作者无私的奉献）
-1. [Github for Window使用教程（一）](http://youngxhui.github.io/2016/05/03/GitHub-for-Windows%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B(%E4%B8%80)/)
-2. [Github for Window使用教程（二）](http://youngxhui.github.io/2016/05/13/GitHub-for-Windows%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B(%E4%BA%8C)/)
-3. [Github for Window使用教程（三）](http://youngxhui.github.io/2016/05/15/GitHub-for-windows%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%EF%BC%88%E4%B8%89%EF%BC%89/)
-4. [Github for Window使用教程（四）](http://youngxhui.github.io/2016/08/28/GitHub-for-Windows%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%EF%BC%88%E5%9B%9B%EF%BC%89/)
+  1. [Github for Window使用教程（一）](http://youngxhui.github.io/2016/05/03/GitHub-for-Windows%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B(%E4%B8%80)/)
+  2. [Github for Window使用教程（二）](http://youngxhui.github.io/2016/05/13/GitHub-for-Windows%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B(%E4%BA%8C)/)
+  3. [Github for Window使用教程（三）](http://youngxhui.github.io/2016/05/15/GitHub-for-windows%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%EF%BC%88%E4%B8%89%EF%BC%89/)
+  4. [Github for Window使用教程（四）](http://youngxhui.github.io/2016/08/28/GitHub-for-Windows%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%EF%BC%88%E5%9B%9B%EF%BC%89/)
 #### （二）、知识点整理及学习体会总结
 &nbsp;&nbsp;&nbsp;暑假学习的第一天，学习的动力很足，因为知道自己要干嘛，而且还很多是要做的那种，因为自己列出的满满的当天学习清单，当然也知道自己一天时间内完成不了的任务，但我还是列出来了，主要是自己收集到的学习资源不想浪费，及相关的学习资料都很好，只要自己努力一点还是可以学习很充实的，每天睡觉前回忆起来，会觉得自己今天过得很满足、很幸福，离梦想又进了一步。
 <br/>
@@ -40,7 +40,20 @@
 <br/>
 &nbsp;&nbsp;&nbsp;17号最惨的就是这天。一大早起来就是发现喉咙痛和头很痛，身体发热，哈哈哈，上大学以来第一次生病啦！有点小小的激动。悲催了，又哟啊浪费一天的时间去治病，心有不甘。但是，我感觉出这场病已经等我好久了，之前我身体经常因为每天的工作量而杠不住，我是知道了，我也知道会有一场病在等着自己，但是没想到来的这么快，无所畏惧啦，意料之中啦。去医务室开了药，吃了之后，一直在床上憋汗，第二天起来就没事了。还好！还好！还好！可以好的这么快，哈哈哈。
 ### 2017年7月18号：
-#### （一）、学习的内容有
 - 整理github文档资料
-
-#### （二）、知识点整理及学习体会总结
+- 整理学习资料，关键学院还断电断网，很悲催，但是这都不是事。
+### 2017年7月19号：
+#### （一）、学习的内容有
+- 学习了别人推荐很赞的两个英语学习网站，花了大概50分钟去尝试了一遍。（很感谢stormzhang的那篇推文）
+   1. Lingvist
+<br/>
+&nbsp;&nbsp;&nbsp;通过默写句子的单词和发音形式考核，通过不断的挑战和复习单词，词汇量感觉瞬间膨胀起来，哈哈哈，值得每天去学习。
+*[官方网站点击这里](http://lingvist.com)*
+   2. 多邻国
+<br/>
+&nbsp;&nbsp;&nbsp;该网站主要是通过游戏化的闯关模式进阶学习的，学习内容很适合英语基础差的同学，学习过程不容易枯燥，挺好的。*[官方网站点击这里](http://www.duolingo.cn)*
+   3. 观看TED
+<br/>
+<img src="img/007.png" title="这张图是007"/>
+<br/>
+&nbsp;&nbsp;&nbsp;这个可以有，这个真的挺好的，但是我一般观看的都是网易公开课里面的TED视频，因为有中英文翻译的字幕，挺棒的。官方网站的完全听不懂，主要是英文化的网站，容易产生视觉疲劳（对于我这种英语渣确实是这样子的）。所以我分享的是网易公开课TED的 *[官方网站点击这里](https://open.163.com/)*
