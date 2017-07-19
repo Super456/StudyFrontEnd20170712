@@ -15,6 +15,9 @@
 #### （一）、学习的内容有
 - 学习版本控制入门——搬进Github（[慕课网视频教程](http://www.imooc.com/learn/390)）
 - 学习版本管理工具介绍——Git篇（[慕课网视频教程](http://www.imooc.com/learn/208)）
+- [怎样使用GitHub?【知乎】](https://www.zhihu.com/question/20070065)
+- [从0开始学习 GitHub 系列之「GitHub 常见的几种操作」【知乎】](https://zhuanlan.zhihu.com/p/22874072)
+- 电子书github-roam.pdf，github的漫游指南 ([下载链接](http://pan.baidu.com/s/1mikfDQK))
 - 学习了youngxhui@杨晓辉博客的四篇关于github for window图文教程（感谢原作者无私的奉献）
   1. [Github for Window使用教程（一）](http://youngxhui.github.io/2016/05/03/GitHub-for-Windows%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B(%E4%B8%80)/)
   2. [Github for Window使用教程（二）](http://youngxhui.github.io/2016/05/13/GitHub-for-Windows%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B(%E4%BA%8C)/)
@@ -23,15 +26,20 @@
 #### （二）、知识点整理及学习体会总结
 &nbsp;&nbsp;&nbsp;暑假学习的第一天，学习的动力很足，因为知道自己要干嘛，而且还很多是要做的那种，因为自己列出的满满的当天学习清单，当然也知道自己一天时间内完成不了的任务，但我还是列出来了，主要是自己收集到的学习资源不想浪费，及相关的学习资料都很好，只要自己努力一点还是可以学习很充实的，每天睡觉前回忆起来，会觉得自己今天过得很满足、很幸福，离梦想又进了一步。
 <br/>
+##### 学习的尝试
+&nbsp;&nbsp;&nbsp;学习完github官网界面及Github for window教程操作之后，感觉手里痒痒了，总得实现什么出来，所以自己在官网搭建了几个仓库，用客户端了做了一些本地和远程仓库的操作，基本学到的东西都用一遍，很满足自己的学习成果。尝试着玩了[Github的简历生成器](http://resume.github.io/)、[github-pages的个人博客建设](https://super456.github.io/)、主要是学会用[github来展示自己的前端页面](http://www.cnblogs.com/luozhihao/p/6081842.html)，毕竟github真的是太好用了，还可以做免费的服务器。主要是个人博客方面太赞了。
 
 ##### 学习的难点
-##### 学习的尝试
+&nbsp;&nbsp;&nbsp;在学习的过程中，因为都是图文教程，学习也比较上手，很容易看懂的知识。但是，要自己而外实践的东西确实有点难，比如说，通过
+
 
 ### 2017年7月13号：
 #### （一）、学习的内容有
 - 学习廖雪峰老师的git使用教程([廖雪峰的官方网站——git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000))
-- 学习是stromzhang的learn-git-from-zero电子书全部([learn-git-from-zero.pdf](这里应该放百度云盘下载链接))
+- 学习是stromzhang的learn-git-from-zero电子书全部 ([下载链接](http://pan.baidu.com/s/1o8ukWMu))
+
 #### （二）、知识点整理及学习体会总结
+&nbsp;&nbsp;&nbsp;
 
 ### 2017年7月15号-17号：
 &nbsp;&nbsp;&nbsp;自从15号搬宿舍之后就感觉自己身体不舒服了，贼尴尬，那时候是喉咙很痛，但是还是坚持学习了一点东西。但不算什么，所以就不记录。
@@ -55,4 +63,7 @@
 <br/>
 &nbsp;&nbsp;&nbsp; 这个可以有，这个真的挺好的，但是我一般观看的都是网易公开课里面的TED视频，因为有中英文翻译的字幕，挺棒的。官方网站的完全听不懂，主要是英文化的网站，容易产生视觉疲劳（对于我这种英语渣确实是这样子的）。所以我分享的是网易公开课TED。  *[官方网站点击这里](https://open.163.com)*
 
-- 学习的内容是
+- 学习了TortoiseGit的使用教程
+<br/>
+&nbsp;&nbsp;&nbsp;简单的学习可视化界面处理的create方法、commit&push方法、delete方法和简单的一些配置信息。界面操作很容易，就是有点丑，不然也不会这么少人用是吧。
+- 
